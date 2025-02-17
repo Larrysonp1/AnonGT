@@ -31,7 +31,7 @@ ___
 
 ___
 
-[<img src="https://i3.ytimg.com/vi/AWtOrG14A6s/maxresdefault.jpg" width="100%">](https://youtu.be/watch?v=AWtOrG14A6s "AnonGT")
+[<img src="" width="100%">](https://youtu.be/KHKwfNf-3fg "AnonGT")
 
 ## AnonGT INSTALL Step By Step
 
