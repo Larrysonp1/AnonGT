@@ -1,0 +1,17 @@
+#######################################
+--==[ AnonGT INSTALL Step By Step ]==--
+#######################################
+1) sudo apt update
+2) sudo apt install -y tor iptables network-manager obfs4proxy bleachbit nyx xterm firefox-esr torbrowser-launcher nscd secure-delete python3 python3-pip python3-venv
+3) sudo mv AnonGT /usr/share/AnonGT
+4) sudo nano /usr/bin/anongt
+
+#!/bin/bash
+source /usr/share/AnonGT/.venv/bin/activate
+python3 /usr/share/AnonGT/AnonGT.py
+
+5) sudo chmod +x /usr/share/AnonGT/AnonGT.py;sudo chmod +x /usr/bin/anongt
+6) cd /usr/share/AnonGT;sudo python -m venv .venv;source .venv/bin/activate
+7) pip install --upgrade pip
+8) pip install -r requirements.txt
+

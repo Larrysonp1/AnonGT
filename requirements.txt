@@ -1,0 +1,7 @@
+termcolor
+requests
+netifaces
+bs4
+cryptography
+keyboard
+onionshare-cli
